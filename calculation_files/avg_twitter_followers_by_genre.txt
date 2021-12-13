@@ -1,0 +1,73 @@
+1. genre, 2. average twitter followers
+barbadian pop, 103706043.0
+canadian hip hop, 39369362.0
+permanent wave, 23537346.0
+detroit hip hop, 22518439.0
+pop, 14258529.0
+chicago rap, 30623236.0
+dance pop, 43172959.0
+irish rock, 1591868.0
+british soul, 27004587.0
+canadian contemporary r&b, 15277855.0
+canadian pop, 114158582.0
+hip hop, 2746402.0
+conscious hip hop, 11580537.0
+alternative rock, 4796893.0
+modern rock, 5681263.0
+art pop, 83952770.0
+big room, 20276193.0
+atl hip hop, 12002504.0
+classic rock, 302244.0
+garage rock, 1729165.0
+modern folk rock, 0.0
+dfw rap, 6943810.0
+british invasion, 0.0
+australian dance, 3756782.0
+hip pop, 30017083.0
+east coast hip hop, 12573755.0
+alternative metal, 3130535.0
+hard rock, 5990778.0
+album rock, 253593.0
+emo, 3056998.0
+g funk, 19376628.0
+neo soul, 13870335.0
+glam rock, 0.0
+colombian pop, 52643135.0
+candy pop, 5403091.0
+alternative r&b, 0.0
+neo mellow, 1400345.0
+alternative hip hop, 933557.0
+rap, 0.0
+brostep, 5979328.0
+alternative dance, 960687.0
+glam metal, 2929151.0
+australian rock, 0.0
+indietronica, 904261.0
+pop rap, 0.0
+downtempo, 0.0
+pop punk, 0.0
+metropopolis, 1354052.0
+grunge, 3507630.0
+new wave, 171571.0
+eau claire indie, 748590.0
+boy band, 31318045.0
+acoustic pop, 0.0
+folk-pop, 470815.0
+irish singer-songwriter, 949136.0
+australian psych, 597036.0
+indie pop rap, 0.0
+adult standards, 145489.0
+complextro, 7736997.0
+celtic rock, 1891555.0
+indie rock, 0.0
+house, 553820.0
+baroque pop, 303457.0
+edm, 0.0
+brighton indie, 0.0
+dirty south rap, 4671807.0
+french shoegaze, 101520.0
+modern alternative rock, 2053625.0
+melodic rap, 8592921.0
+gangster rap, 2606000.0
+contemporary country, 9401133.0
+electro, 0.0
